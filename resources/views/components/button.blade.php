@@ -1,0 +1,1 @@
+<button type="button" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-full shadow-sm text-white bg-emerald-600 hover:bg-green-600"> QUERO SER FELIZ AGORA!</button>
